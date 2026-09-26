@@ -1,0 +1,17 @@
+{
+  "name": "My 20-Day Personal Dashboard",
+  "short_name": "My Dashboard",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#061321",
+  "theme_color": "#061321",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
